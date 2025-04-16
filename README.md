@@ -1,5 +1,5 @@
 # MyMemo
-MyMemo meruapakan sebuah mobile app untuk membuat cerita kenangan.
+MyMemo merupakan sebuah mobile app sederhana untuk membuat cerita kenangan.
 
 # Dibuat menggunakan
 - Android Studio versi Koala (Bahasa Pemograman Java)
