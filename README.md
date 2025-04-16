@@ -4,7 +4,8 @@ MyMemo merupakan sebuah mobile app sederhana untuk membuat cerita kenangan.
 # Dibuat menggunakan
 - Android Studio versi Koala (Bahasa Pemograman Java)
 - Implementasi API Firebase (Realtime Database)
-- Implementasi metode Recycler View 
+- Implementasi metode Recycler View (Tampilan UI)
+- Implementasi OOP
 
 # Fitur
 - Login & Register
