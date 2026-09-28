@@ -10,6 +10,7 @@
     android:background="#cde9f6"
     >
     <LinearLayout
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"

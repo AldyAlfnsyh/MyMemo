@@ -14,12 +14,12 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="16dp"
-        >
+        >mak
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="26dp"
             android:scaleType="centerCrop"
             android:background="#E0E0E0"
             android:layout_marginBottom="16dp"/>
